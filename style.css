@@ -169,33 +169,31 @@ body {
     color: rgb(222, 123, 74);
     margin-top: 20px;
     padding: 0 5px;
-  }
-  .card .info .icon a:hover{
+}
+.card .info .icon a:hover{
     color: #f0f0f0;
-  }
-  .tc{
+}
+.tc{
     text-align: right;
-  }
-  h3{
+}
+h3{
     text-decoration: none;
-  }
- .guntoor{
+}
+.guntoor{
     width: 100%;
     height: 95%;
- } 
- .set-img .set-img {
+} 
+.set-img .set-img {
     overflow: hidden;
     border-right: 0px solid #454035;
     border-bottom: 0px solid #454035;
-  }
-  
-  .set-img .set-img img {
+}  
+.set-img .set-img img {
     transition: all ease-in-out 0.4s;
-  }
-  
-  .set-img .set-img:hover img {
+}  
+.set-img .set-img:hover img {
     transform: scale(1.1);
-  }
-  body {
+}
+body {
     font-family: 'Bungee Spice';
-  }
+}
